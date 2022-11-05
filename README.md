@@ -15,7 +15,7 @@ $ pip install rich
 $ git clone https://github.com/RianFrmnsyhXD/BotShare
 $ cd BotShare
 $ ls
-$ python run.py
+$ python run1.py
 ```
 
 #### Menu Tools
