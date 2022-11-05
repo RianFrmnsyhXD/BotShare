@@ -17,16 +17,13 @@ $ cd BotShare
 $ ls
 $ python run.py
 ```
-#### Infomation Script
+
+#### Menu Tools
+![Screenshot_20221105-085913](https://user-images.githubusercontent.com/106524091/200096110-4f1a9ad8-a328-44d8-bbae-5e9764d549fd.png)
+
+#### Infomation Tools
 ``` 
 Author     : RianFrmnsyhXD
 Tools      : Bot Share Facebook
 Created on : 5-November-2022
-```
-
-#### Note
-``` 
-Tolong gunakan script ini dengan bijak,
-atas kesalahan apapun yang anda buat admin
-tidak akan bertanggung jawab terimakasih!
 ```
